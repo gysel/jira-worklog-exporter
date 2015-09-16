@@ -11,7 +11,7 @@
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="ch.hsr.sa.eai.jira.Main"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="${string_prompt:link:https://issue.finacesolution.com} ${string_prompt:user:michael.gysel.sungard} ${string_prompt:pw:passwort}"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="${string_prompt:link:https://octomore.atlassian.net} ${string_prompt:user:admin} ${string_prompt:pw:passwort}"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="WorklogExporter"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>
